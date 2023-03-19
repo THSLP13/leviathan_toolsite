@@ -30,4 +30,10 @@ pause > nul
 
 ### 快速浏览
 
-TKK自动登录脚本教程 | PC | CURL法 | [链接[站内]](.\Guide_AutoTKKC_CamNetworkLog.html)
+|        名称         | 类别 |    平台     |  方法  |                        链接                         |
+| :-----------------: | :--: | :---------: | :----: | :-------------------------------------------------: |
+| TKK自动登录脚本教程 | 教程 | PC(Windows) | CURL法 |  [链接[站内]](.\Guide_AutoTKKC_CamNetworkLog.html)  |
+| Typora 1.5.9 学习版 | 资源 | PC(Windows) | 补丁法 | [链接[站内]](.\Resource_Typora_1_5_9_learnVer.html) |
+|                     |      |             |        |                                                     |
+|                     |      |             |        |                                                     |
+
