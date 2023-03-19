@@ -30,4 +30,4 @@ pause > nul
 
 ### 快速浏览
 
-TKK自动登录脚本教程 | PC | CURL法 | [链接[站内]](Guide\AutoTKKC_CamNetworkLog\01.md)
+TKK自动登录脚本教程 | PC | CURL法 | [链接[站内]](.\Guide_AutoTKKC_CamNetworkLog.md)
