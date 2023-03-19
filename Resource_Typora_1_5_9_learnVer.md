@@ -8,8 +8,6 @@
 
 链接：[Github](https://github.com/THSLP13/thslp13.github.io/releases/download/resourcePack/typora-x64-1.5.9.zip)
 
-学习版补丁:[Github](.\resource\program\typora\winmm.dll)
-
 ### 资源使用说明
 
 正常安装typora之后，将补丁 winmm.dll 放在目录之下即可
