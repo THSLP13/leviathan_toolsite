@@ -6,7 +6,7 @@
 
 投放：auro[Trusted]
 
-链接：[Github_File1](.\resource\program\typora\typora-setup-x64-1.5.9.7z.001)  [Github_File2](.\resource\program\typora\typora-setup-x64-1.5.9.7z.002)  [Github_File3](.\resource\program\typora\typora-setup-x64-1.5.9.7z.003)  [Github_File4](.\resource\program\typora\typora-setup-x64-1.5.9.7z.004)
+链接：[Github]([https://github.com/THSLP13/thslp13.github.io/releases/download/resourcePack/typora-x64-1.5.9.zip])
 
 学习版补丁:[Github](.\resource\program\typora\winmm.dll)
 
