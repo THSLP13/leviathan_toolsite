@@ -6,6 +6,8 @@
 
 投放：auro[Trusted]
 
+链接: [Github](https://github.com/THSLP13/thslp13.github.io/releases/download/tool/Tool_ElecInfoGet.zip)
+
 ### 在进行教程之前，你需要...
 
 安装NodeJS(笔者使用Node 20.8)
