@@ -26,6 +26,6 @@ pause > nul
 | :-----------------: | :--: | :---------: | :----: | :-------------------------------------------------: |
 | TKK自动登录脚本教程 | 教程 | PC(Windows) | CURL法 |  [链接[站内]](.\Guide_AutoTKKC_CamNetworkLog.html)  |
 | Typora 1.5.9 学习版 | 资源 | PC(Windows) | 补丁法 | [链接[站内]](.\Resource_Typora_1_5_9_learnVer.html) |
-|                     |      |             |        |                                                     |
+| 一键查询电费        |  工具 |  PC(ALL) |        |   [链接[站内]](.\Tool_QueryElecInfo.html) |
 |                     |      |             |        |                                                     |
 
